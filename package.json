@@ -1,0 +1,32 @@
+{
+    "name": "@hayodev/info",
+    "version": "1.0.0",
+    "description": "About us",
+    "main": "card.js",
+    "type": "module",
+    "scripts": {
+        "build": "node card.js",
+        "release": "standard-version && git push --follow-tags && npm publish --registry https://registry.npmjs.org/ --access public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HayoDev/about-us.git"
+    },
+    "bin": "./card.js",
+    "keywords": [
+        "contact"
+    ],
+    "author": "Hayo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/HayoDev/about-us/issues"
+    },
+    "homepage": "https://github.com/HayoDev/about-us#readme",
+    "dependencies": {
+        "boxen": "^8.0.1",
+        "chalk": "^5.3.0"
+    },
+    "devDependencies": {
+        "standard-version": "^9.5.0"
+    }
+}
