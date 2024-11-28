@@ -4,10 +4,10 @@
 
 # It's us, HAYO!
 
-[![npm version](https://img.shields.io/npm/v/@hayodev/create-litium-accelerator.svg)](https://www.npmjs.com/package/@hayodev/info)
+[![npm version](https://img.shields.io/npm/v/@hayodev/info.svg)](https://www.npmjs.com/package/@hayodev/info)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm dependents](https://badgen.net/npm/dependents/@hayodev/create-litium-accelerator)](https://www.npmjs.com/package/@hayodev/info?activeTab=dependents)
-[![Downloads](https://badgen.net/npm/dt/@hayodev/create-litium-accelerator)](https://www.npmjs.com/package/@hayodev/info)
+[![npm dependents](https://badgen.net/npm/dependents/@hayodev/info)](https://www.npmjs.com/package/@hayodev/info?activeTab=dependents)
+[![Downloads](https://badgen.net/npm/dt/@hayodev/info)](https://www.npmjs.com/package/@hayodev/info)
 
 ## Want to know more ?
 
