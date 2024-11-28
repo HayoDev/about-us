@@ -5,14 +5,14 @@
     "main": "card.js",
     "type": "module",
     "scripts": {
-        "build": "node card.js",
+        "build": "node index.js",
         "release": "standard-version && git push --follow-tags && npm publish --registry https://registry.npmjs.org/ --access public"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/HayoDev/about-us.git"
     },
-    "bin": "./card.js",
+    "bin": "./index.js",
     "keywords": [
         "contact"
     ],

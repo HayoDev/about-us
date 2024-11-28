@@ -1,7 +1,4 @@
 #!/usr/bin/env node
-// 👆 Used to tell Node.js that this is a CLI tool
-
-// Pull in our modules
 import chalk from'chalk';
 import boxen from 'boxen';
 
