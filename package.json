@@ -23,6 +23,7 @@
     },
     "homepage": "https://github.com/HayoDev/about-us#readme",
     "dependencies": {
+        "asciify-image": "^0.1.10",
         "boxen": "^8.0.1",
         "chalk": "^5.3.0"
     },

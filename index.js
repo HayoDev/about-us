@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import chalk from'chalk';
 import boxen from 'boxen';
+import asciify from 'asciify-image';
 
 // Define options for Boxen
 const options = {
@@ -55,4 +56,20 @@ const output =
   newline +
   carding 
 
-console.log(chalk.green(boxen(output, options)))
+
+const optionsAscii = {
+  fit:    'box',
+  width:  50,
+  height: 50
+}
+
+asciify('media/hayo.png', optionsAscii)
+  .then(function (asciified) {
+    console.log(asciified);
+    console.log(chalk.green(boxen(output, options)))
+
+  })
+  .catch(function (err) {
+    // Print error to console
+    console.error(err);
+});
