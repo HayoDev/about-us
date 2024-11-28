@@ -1,6 +1,6 @@
 {
     "name": "@hayodev/info",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "About us",
     "main": "card.js",
     "type": "module",
