@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/HayoDev/about-us/compare/v1.0.5...v1.1.0) (2024-12-04)
+
+
+### Features
+
+* add ascii logotype ([4a4deb2](https://github.com/HayoDev/about-us/commit/4a4deb2298220be890d72f04c5aceebabd0e9e5e))
+
 ### [1.0.5](https://github.com/HayoDev/about-us/compare/v1.0.4...v1.0.5) (2024-11-28)
 
 ### [1.0.4](https://github.com/HayoDev/about-us/compare/v1.0.3...v1.0.4) (2024-11-28)
